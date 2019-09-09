@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9307" started-at="2019-09-09T13:59:02Z" finished-at="2019-09-09T13:59:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9307" started-at="2019-09-09T13:59:02Z" finished-at="2019-09-09T13:59:12Z">
+      <class name="com.github.automatedowl.examples.WebHostTest">
+        <test-method status="PASS" signature="setTestConfiguration()[pri:0, instance:com.github.automatedowl.examples.WebHostTest@365c30cc]" name="setTestConfiguration" is-config="true" duration-ms="3079" started-at="2019-09-09T13:59:02Z" finished-at="2019-09-09T13:59:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestConfiguration -->
+        <test-method status="PASS" signature="site88Test()[pri:0, instance:com.github.automatedowl.examples.WebHostTest@365c30cc]" name="site88Test" duration-ms="5493" started-at="2019-09-09T13:59:06Z" finished-at="2019-09-09T13:59:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- site88Test -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.github.automatedowl.examples.WebHostTest@365c30cc]" name="closeBrowser" is-config="true" duration-ms="630" started-at="2019-09-09T13:59:11Z" finished-at="2019-09-09T13:59:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.github.automatedowl.examples.WebHostTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
